@@ -1,0 +1,23 @@
+# Library-Management-System
+Library (Books) management for admin
+
+API endpoint to Sign-up for Admin -
+http://127.0.0.1:8000/admin-signup/
+
+API endpoint to Login for Admin -
+http://127.0.0.1:8000/admin-login/
+
+API endpoint to create entry for books for Admin (if the user is authenticated) -
+http://127.0.0.1:8000/admin-book-view/
+
+API endpoint to retrieve all the books for Admin (if the user is authenticated) -
+http://127.0.0.1:8000/admin-book-view/
+
+API endpoint to update the entry of any book for Admin (if the user is authenticated) -
+http://127.0.0.1:8000/admin-book-view/
+
+API endpoint to delete the entry of any book for Admin (if the user is authenticated) -
+http://127.0.0.1:8000/admin-book-view/
+
+API endpoint to show the student view
+http://127.0.0.1:8000/student-view/
